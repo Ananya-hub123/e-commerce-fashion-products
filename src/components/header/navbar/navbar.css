@@ -1,0 +1,42 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.navbar-links a {
+  all: unset;
+  color: black;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 30px;
+}
+
+.navbar-logo {
+  font-size: 30px;
+  margin-left: -161px;
+  font-weight: bolder;
+  letter-spacing: 2px;
+
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f8f9fa;
+}
+
+.navbar-right {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 20px;
+
+}
